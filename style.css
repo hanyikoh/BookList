@@ -1,0 +1,21 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.creator{
+    text-align: center;
+}
+
+.card-img-top{
+    height: 300px;
+}
+
+#copyright-2020, #rightsreserved{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(197, 199, 199);
+}
